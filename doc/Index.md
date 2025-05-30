@@ -11,7 +11,7 @@
 - Matricular estudiante
 - Cambiar de sección a estudiante.
 - Registrar nuevo estudiante
-- Matricular
+- Matricular estudiante.
 - 
 ---
 
