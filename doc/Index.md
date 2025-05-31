@@ -1,13 +1,13 @@
 # 📚 Índice General del Manual de Usuario
 
 ## 🏁 Generalidades
-- [Iniciar Sesión](../doc/generalidades/Iniciar sesión.md)
+- [Iniciar Sesión](../doc/generalidades/Iniciar%20sesión.md)
 
 
 ---
 
 ## 🗂️ Secretaría
-- Crear nuevo año lectivo
+- [Como crear un año lectivo](../doc/secretaria/Crear%20Año%20Lectivo.md)
 - Configurar grados del año lectivo
 - Matricular estudiante
 - Cambiar de sección a estudiante.

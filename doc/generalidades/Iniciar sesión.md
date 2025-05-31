@@ -1,5 +1,4 @@
 # 🔐 Inicio de Sesión
-
 Esta sección describe cómo acceder al sistema mediante la funcionalidad de **inicio de sesión (login)**.
 
 ---
