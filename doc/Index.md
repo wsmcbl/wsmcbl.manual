@@ -7,8 +7,10 @@
 ---
 
 ## 🗂️ Secretaría
-- [Como crear un año lectivo](../doc/secretaria/Crear%20Año%20Lectivo.md)
-- Configurar grados del año lectivo
+- [Crear año lectivo](../doc/secretaria/Crear%20año%20lectivo.md)
+- [Ver año lectivo](../doc/secretaria/Ver%20año%20lectivo.md)
+- [Configurar grados](../doc/secretaria/Configurar%20grados.md)
+- [Configurar secciones](../doc/secretaria/Configurar%20secciones.md)
 - Matricular estudiante
 - Cambiar de sección a estudiante.
 - Registrar nuevo estudiante
@@ -16,7 +18,7 @@
 ---
 
 ## 💰 Contabilidad
-
+- [Modificar tasa de cambio](../doc/contabilidad/Modificar%20tasa%20de%20cambio.md)
 ---
 
 ## 🛠️ Administración

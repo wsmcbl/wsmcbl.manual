@@ -1,12 +1,14 @@
-# Crear un año lectivo
+# 🆕 Crear un año lectivo
 
 Esta sección describe cómo crear un año lectivo con el fin de configurar los aranceles,
 asignaturas, semestres y parciales del proximo año lectivo.
-------------------------------------------------------------
+---
 
 ## 📝 Nota importante
 
 > *La creación de un año lectivo solo puede realizarse en los meses de noviembre y diciembre.*
+> 
+> Se neceita tener alguno de estos roles. Secretario, Administrador
 
 ---
 
@@ -27,16 +29,22 @@ asignaturas, semestres y parciales del proximo año lectivo.
    ![Configurar las asignaturas](../../assets/Año%20Lectivo/Año%20Lectivo6.png)
 6. Tomate un momento y revisa que todo haya sido configurado segun las necesidades si todo esta bien selecciona el boton Crear Año Lectivo(1).
    ![Crear nuevo año lectivo](../../assets/Año%20Lectivo/Año%20Lectivo7.png)
+7. El año lectivo se creo exitosamente.
+![Año lectivo creado](../../assets/Año%20Lectivo/Año%20Lectivo8.png)
 
 ---
 
 ## ❗ Problemas comunes
 
-| Problema                  | Solución sugerida                                         |
-|---------------------------|-----------------------------------------------------------|
-| No se creo el año lectivo | Asegurese que esta en los meses de noviembre o diciembre. |
-
+| Problema                             | Solución sugerida                                             |
+|--------------------------------------|---------------------------------------------------------------|
+| No esta en el perido correspondiente | Asegurese que esta en los meses de noviembre o diciembre.     |
+| Algun arancel tiene el valor 0       | Asegurese que todos los aranceles tengan un precio mayor a 0. |
 ---
+
+## ❕ Sugerencias
+Despues de crear el año lectivo dirijete a la opcion de [ver año lectivo](Ver%20año%20lectivo.md), para asegurarse de que todos los cambios y configuraciones son las adecuadas.
+
 
 🔙 [Inicio](../Index.md)
 
