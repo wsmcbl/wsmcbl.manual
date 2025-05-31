@@ -1,7 +1,8 @@
 # 📚 Índice General del Manual de Usuario
 
 ## 🏁 Generalidades
-- [[Iniciar sesión|Inicio de sesión]]
+- [Iniciar Sesión](../doc/generalidades/Iniciar sesión.md)
+
 
 ---
 
@@ -12,7 +13,6 @@
 - Cambiar de sección a estudiante.
 - Registrar nuevo estudiante
 - Matricular
-- 
 ---
 
 ## 💰 Contabilidad
