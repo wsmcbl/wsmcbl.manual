@@ -36,5 +36,5 @@ Esta sección describe cómo acceder al sistema mediante la funcionalidad de **i
 
 ---
 
-🔙 [Inicio](../Index.md)
+🔙 [Inicio](../../Index.md)
 

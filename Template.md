@@ -9,7 +9,7 @@ Descripcion o proposito
 > *Notas adicionales*
 ---
 
-## ✅ Pasos para
+## ✅ Pasos
 
 1. Paso1
 2. Paso2
@@ -30,6 +30,6 @@ Descripcion o proposito
 
 Algun tipo de sugerencias.
 
-🔙 [Inicio](../Index.md)
+🔙 [Inicio](../../Index.md)
 
 

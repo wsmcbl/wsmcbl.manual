@@ -23,6 +23,6 @@ relacionados con las fechas limites de los parciales y la entrega de calificacio
 ![Aranceles](../../assets/Año%20Lectivo/Año%20Lectivo12.png)
 ---
 
-🔙 [Inicio](../Index.md)
+🔙 [Inicio](../../Index.md)
 
 

@@ -21,6 +21,6 @@ Modifica la tasa de cambio de un año lectivo en especifico
 ![Acceder](../../assets/Tasa%20de%20cambio/Tasa4.png)
 
 ---
-🔙 [Inicio](../Index.md)
+🔙 [Inicio](../../Index.md)
 
 

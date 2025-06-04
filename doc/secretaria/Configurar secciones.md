@@ -53,6 +53,6 @@ registros de calificaciones activos*
 
 Una vez que estudiantes sean matriculados en esta sección seran visibles en esta vista.
 
-🔙 [Inicio](../Index.md)
+🔙 [Inicio](../../Index.md)
 
 

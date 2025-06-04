@@ -37,6 +37,6 @@ cada seccion.
 
 Termina de configurar los detalles de cada sección con el paso de [configurar secciones](Configurar%20secciones.md).
 
-🔙 [Inicio](../Index.md)
+🔙 [Inicio](../../Index.md)
 
 

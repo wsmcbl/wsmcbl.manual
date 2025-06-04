@@ -46,6 +46,6 @@ asignaturas, semestres y parciales del proximo año lectivo.
 Despues de crear el año lectivo dirijete a la opcion de [ver año lectivo](Ver%20año%20lectivo.md), para asegurarse de que todos los cambios y configuraciones son las adecuadas.
 
 
-🔙 [Inicio](../Index.md)
+🔙 [Inicio](../../Index.md)
 
 
