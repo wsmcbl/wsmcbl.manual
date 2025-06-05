@@ -1,7 +1,7 @@
 # 🛠️ Configurar grados para el año lectivo
 
-Al configurar un grado definimos la cantidad de secciones que tendra en este año lectivo, la ubicacion y capacidad de
-cada seccion.
+Al configurar un grado definimos la cantidad de secciones que tendrá en este año lectivo, la ubicación y capacidad de
+cada sección.
 .
 ---
 
@@ -12,15 +12,15 @@ cada seccion.
 
 ## ✅ Pasos
 
-1. Da click en el modulo de secretaria y selecciona Grados (1).
+1. Da clic en el módulo de secretaria y selecciona Grados (1).
    ![Seleccione la vista de grados](../../assets/Configurar%20grados/Grados1.png)
-2. Seleccionamos el boton de configurar del grado correspondiente (2).
+2. Seleccionamos el botón de configurar del grado correspondiente (2).
    ![Seleccione la vista de grados](../../assets/Configurar%20grados/Grados2.png)
-3. Ingresamos el numero de secciones que necesitaremos crear en este año (3).
+3. Ingresamos el número de secciones que necesitaremos crear en este año (3).
    ![Seleccione la vista de grados](../../assets/Configurar%20grados/Grados3.png)
-4. Definimos el numero de la sección y la capacidad que poseera esta seccion damos click en Guardar (4).
+4. Definimos el número de la sección y la capacidad que poseerá esta sección damos clic en Guardar (4).
    ![Seleccione la vista de grados](../../assets/Configurar%20grados/Grados4.png)
-5. El grado y sus secciones fuerón configurados con exito.
+5. El grado y sus secciones fuerón configurados con éxito.
    ![Seleccione la vista de grados](../../assets/Configurar%20grados/Grados5.png)
 
 ---

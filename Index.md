@@ -28,7 +28,7 @@
 ## 💰 Contabilidad
 - [Cobrar matrícula](doc/contabilidad/Cobrar%20matricula.md)
 - [Cobrar aranceles](doc/contabilidad/Cobrar%20aranceles.md)
-- Debitar aranceles](doc)
+- [Debitar aranceles](doc/contabilidad/Debitar%20aranceles.md)
 - [Modificar tasa de cambio](doc/contabilidad/Modificar%20tasa%20de%20cambio.md).
 - 
 ---

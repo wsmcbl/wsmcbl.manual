@@ -1,6 +1,6 @@
 _# 🛠️ Generar constancia de alumno activo.
 
-Este  documento contiene la información de su matrícula y año lectivo.
+Este documento contiene la información de su matrícula y año lectivo.
 .
 ---
 
@@ -11,15 +11,15 @@ Este  documento contiene la información de su matrícula y año lectivo.
 
 ## ✅ Pasos
 
-1. Da click en el modulo de secretaria y selecciona Estudiantes (1).
+1. Da clic en el módulo de secretaria y selecciona Estudiantes (1).
    ![Ir al listado](../../assets/Cambio%20de%20matricula/Cambio1.png)
-2. Busca al estudiante (2) y da click en el botón Perfil (3).
+2. Busca al estudiante (2) y da clic en el botón Perfil (3).
    ![Ir al listado](../../assets/Alumno%20activo/Activo.png)
 3. Dentro del perfil de estudiante selecciona el botón Generar Documentos (4) y posteriormente Constancia de Alumno Activo (5)
    ![Ir al listado](../../assets/Alumno%20activo/Activo1.png)
-4. Se mostrara una notificación con el archivo descargado (6).
+4. Se mostrará una notificación con el archivo descargado (6).
    ![Ir al listado](../../assets/Alumno%20activo/Activo2.png)
-5. El documento fue generado y descargado con exito.
+5. El documento fue generado y descargado con éxito.
    ![Ir al listado](../../assets/Alumno%20activo/Activo3.png)
 ---
 
@@ -27,7 +27,7 @@ Este  documento contiene la información de su matrícula y año lectivo.
 
 | Problema                   | Solución sugerida                        |
 |----------------------------|------------------------------------------|
-| No se genera el documento. | Asegurese que el estudiante este activo. |
+| No se genera el documento. | Asegúrese que el estudiante este activo. |
 
 ---
 🔙 [Inicio](../../Index.md)

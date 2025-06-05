@@ -1,6 +1,6 @@
 # 🛠️ Cambiar de nivel
 
-Cambiar el nivel educativo actualiza automaticamente la lista de aranceles disponibles
+Cambiar el nivel educativo actualiza automáticamente la lista de aranceles disponibles
 para dicho nivel, la lista de grados y secciones disponibles.
 .
 ---
@@ -16,13 +16,13 @@ para dicho nivel, la lista de grados y secciones disponibles.
 
 ## ✅ Pasos
 
-1. Da click en el modulo de secretaria y selecciona Estudiantes (1).
+1. Da clic en el módulo de secretaria y selecciona Estudiantes (1).
    ![Ir al listado](../../assets/Cambio%20de%20matricula/Cambio1.png)
-2. Busca al estudiante (2) y da click en el botón Perfil (3).
+2. Busca al estudiante (2) y da clic en el botón Perfil (3).
    ![Ir al listado](../../assets/Cambio%20de%20nivel/Cambio1.png)
-3. Dentro del perfil de estudiante selecciona el botón Acciones Academicas (4) y posteriormente Cambiar Nivel (5).
+3. Dentro del perfil de estudiante selecciona el botón Acciones Académicas (4) y posteriormente Cambiar Nivel (5).
    ![Ir al listado](../../assets/Cambio%20de%20nivel/Cambio2.png)
-4. Selecciona el nuevo nivel educativo (6) y da click en el botón Actualizar (7).
+4. Selecciona el nuevo nivel educativo (6) y da clic en el botón Actualizar (7).
    ![Ir al listado](../../assets/Cambio%20de%20nivel/Cambio3.png)
 5. El nivel educativo del estudiante fue actualizado.
    ![Ir al listado](../../assets/Cambio%20de%20nivel/Cambio4.png)
@@ -31,15 +31,15 @@ para dicho nivel, la lista de grados y secciones disponibles.
 
 ## ❗ Problemas comunes
 
-| Problema                                                | Solución sugerida                                                            |
-|---------------------------------------------------------|------------------------------------------------------------------------------|
-| Se muesta un error al dar click en el botón Actualizar. | Asegurese que el estudiante no tenga ningun cobro para el nuevo año lectivo. |
+| Problema                                                 | Solución sugerida                                                            |
+|----------------------------------------------------------|------------------------------------------------------------------------------|
+| Se muestra un error al dar click en el botón Actualizar. | Asegúrese que el estudiante no tenga ningún cobro para el nuevo año lectivo. |
 
 ---
 
 ## ❕ Sugerencias
 
-Una vez actualizado el nivel educativo puede cobrar la tarifa de matricula correspondiente al nivel educativo correcto.
+Una vez actualizado el nivel educativo puede cobrar la tarifa de matrícula correspondiente al nivel educativo correcto.
 
 [Matrícular](../secretaria/Matricular%20estudiante.md) al estudiante en el grado y sección correctos.
 
