@@ -18,10 +18,10 @@
 - [Generar certificado de alumno activo](doc/secretaria/Generar%20certificado%20alumno%20activo.md)
 - [Obtener boleta de calificaciones](doc/secretaria/Obtener%20boleta.md)
 - [Generar historial academico](doc/secretaria/Generar%20historial%20academico.md)
-- [Generar estado de cuenta] 
-- [Generar proformas]
-- [Generar proformas]
-- 
+- [Generar estado de cuenta](doc/secretaria/Generar%20estado%20de%20cuenta%20secretaria.md)
+- [Generar proformas](doc/secretaria/Generar%20proformas.md)
+- [Ver contraseña de estudiante](doc/secretaria/Ver%20contraseña%20estudiante.md)
+- [Activar / Desactivar estudiante](doc/secretaria/Deshabilitar%20estudiante.md)
 ---
 
 ## 💰 Contabilidad
