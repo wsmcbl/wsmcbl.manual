@@ -31,7 +31,11 @@
 - [Debitar aranceles](doc/contabilidad/Debitar%20aranceles.md)
 - [Agregar descuento](doc/contabilidad/Agregar%20descuentos.md)
 - [Generar estado de cuenta](doc/contabilidad/Generar%20estado%20de%20cuenta%20contabilidad.md)
+- [Aplicar Mora](doc/contabilidad/Generar%20mora.md)
+- [Generar reportes de ingresos](doc/contabilidad/Reporte%20de%20ingresos.md)
+- [Gestionar transacciones](doc/contabilidad/Ver%20transacciones.md)
 - [Modificar tasa de cambio](doc/contabilidad/Modificar%20tasa%20de%20cambio.md).
+
 ---
 
 ## 🛠️ Administración
