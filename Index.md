@@ -30,7 +30,7 @@
 - [Cobrar aranceles](doc/contabilidad/Cobrar%20aranceles.md)
 - [Debitar aranceles](doc/contabilidad/Debitar%20aranceles.md)
 - [Agregar descuento](doc/contabilidad/Agregar%20descuentos.md)
-- [Generar estado de cuenta]
+- [Generar estado de cuenta](doc/contabilidad/Generar%20estado%20de%20cuenta%20contabilidad.md)
 - [Modificar tasa de cambio](doc/contabilidad/Modificar%20tasa%20de%20cambio.md).
 ---
 
