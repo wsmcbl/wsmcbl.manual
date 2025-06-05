@@ -22,11 +22,14 @@
 - [Generar proformas](doc/secretaria/Generar%20proformas.md)
 - [Ver contraseña de estudiante](doc/secretaria/Ver%20contraseña%20estudiante.md)
 - [Activar / Desactivar estudiante](doc/secretaria/Deshabilitar%20estudiante.md)
+- [Ver hoja de matricula](/doc/secretaria/Obtener%20hoja%20de%20matricula.md)
 ---
 
 ## 💰 Contabilidad
-- [Modificar tasa de cambio](doc/contabilidad/Modificar%20tasa%20de%20cambio.md).
 - [Cobrar matrícula](doc/contabilidad/Cobrar%20matricula.md)
+- [Cobrar aranceles](doc/contabilidad/Cobrar%20aranceles.md)
+- Debitar aranceles](doc)
+- [Modificar tasa de cambio](doc/contabilidad/Modificar%20tasa%20de%20cambio.md).
 - 
 ---
 
