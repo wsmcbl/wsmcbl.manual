@@ -29,8 +29,9 @@
 - [Cobrar matrícula](doc/contabilidad/Cobrar%20matricula.md)
 - [Cobrar aranceles](doc/contabilidad/Cobrar%20aranceles.md)
 - [Debitar aranceles](doc/contabilidad/Debitar%20aranceles.md)
+- [Agregar descuento](doc/contabilidad/Agregar%20descuentos.md)
+- [Generar estado de cuenta]
 - [Modificar tasa de cambio](doc/contabilidad/Modificar%20tasa%20de%20cambio.md).
-- 
 ---
 
 ## 🛠️ Administración
