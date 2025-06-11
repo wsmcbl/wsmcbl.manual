@@ -1,4 +1,4 @@
-# 🆕 Cambiar contraseña a un usuario
+# 🛠️ Cambiar contraseña a un usuario
 
 Se generará una nueva contraseña y la anterior quedará invalidada.
 

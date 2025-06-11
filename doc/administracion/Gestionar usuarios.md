@@ -1,4 +1,4 @@
-# 🆕 Gestionar usuarios
+# 🛠️ Gestionar usuarios
 
 Actualiza el estado del usuario.
 

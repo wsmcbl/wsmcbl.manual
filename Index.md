@@ -42,7 +42,9 @@
 - [Crear usuarios](doc/administracion/Crear%20usuario.md)
 - [Cambiar contraseña de usuarios](doc/administracion/Cambiar%20contraseña%20usuarios.md)
 - [Gestionar Usuarios](doc/administracion/Gestionar%20usuarios.md)
-
+- [Actualizar información y permisos a usuarios](doc/administracion/Actualizar%20informacion%20usuario.md)
+- [Generar copia de seguridad (Backup)](doc/administracion/Backup.md)
+- [Roles Roles](doc/administracion/Roles.md)
 ---
 
 ## ⚙️ Configuración
