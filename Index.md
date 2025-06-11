@@ -39,17 +39,17 @@
 ---
 
 ## 🛠️ Administración
-- [Crear usuarios](doc/administracion/Crear%20usuario.md)
-- [Cambiar contraseña de usuarios](doc/administracion/Cambiar%20contraseña%20usuarios.md)
-- [Gestionar Usuarios](doc/administracion/Gestionar%20usuarios.md)
-- [Actualizar información y permisos a usuarios](doc/administracion/Actualizar%20informacion%20usuario.md)
-- [Generar copia de seguridad (Backup)](doc/administracion/Backup.md)
-- [Roles Roles](doc/administracion/Roles.md)
+
+
 ---
 
 ## ⚙️ Configuración
-- [[configuracion/parametros_generales|Parámetros del sistema]]
-- [[configuracion/roles_y_permisos|Gestión de roles y permisos]]
+- [Crear usuarios](doc/configuracion/Crear%20usuario.md)
+- [Cambiar contraseña de usuarios](doc/configuracion/Cambiar%20contraseña%20usuarios.md)
+- [Gestionar Usuarios](doc/configuracion/Gestionar%20usuarios.md)
+- [Actualizar información y permisos a usuarios](doc/configuracion/Actualizar%20informacion%20usuario.md)
+- [Generar copia de seguridad (Backup)](doc/configuracion/Backup.md)
+- [Roles Roles](doc/configuracion/Roles.md)
 
 
 V1.0
