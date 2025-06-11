@@ -39,8 +39,9 @@
 ---
 
 ## 🛠️ Administración
-- [[administracion/crear_usuario|Crear usuario]]
-- [[administracion/resetear_contraseña|Resetear contraseña]]
+- [Crear usuarios](doc/administracion/Crear%20usuario.md)
+- [Cambiar contraseña de usuarios](doc/administracion/Cambiar%20contraseña%20usuarios.md)
+- [Gestionar Usuarios](doc/administracion/Gestionar%20usuarios.md)
 
 ---
 
