@@ -39,6 +39,7 @@
 ---
 
 ## 🛠️ Administración
+- [Gestionar parciales](doc/administracion/Gestionar%20parciales.md)
 
 
 ---
@@ -52,4 +53,4 @@
 - [Roles Roles](doc/configuracion/Roles.md)
 
 
-V1.0
+V3.0
