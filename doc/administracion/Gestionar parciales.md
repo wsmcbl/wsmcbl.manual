@@ -45,7 +45,7 @@ al terminar un parcial se le agregarán las calificaciones obtenidas a dicho gru
 
 ## ❕ Sugerencias
 
-Una vez activado un parcial puedes activar el registro de calificaciones para dicho parcial.
+Una vez activado un parcial puedes [activar el registro de calificaciones](../administracion/Gestionar%20registro%20de%20calificaciones.md) para dicho parcial.
 
 🔙 [Inicio](../../Index.md)
 
