@@ -40,7 +40,7 @@
 
 ## 🛠️ Administración
 - [Gestionar parciales](doc/administracion/Gestionar%20parciales.md)
-- [Gestionar registro de calificaciones]
+- [Gestionar registro de calificaciones](doc/administracion/Gestionar%20registro%20de%20calificaciones.md)
 
 
 ---
