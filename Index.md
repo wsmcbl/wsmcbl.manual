@@ -2,7 +2,6 @@
 
 ## 🏁 Generalidades
 - [Iniciar Sesión](doc/generalidades/Iniciar%20sesión.md)
-
 ---
 
 ## 🗂️ Secretaría
@@ -25,6 +24,14 @@
 - [Ver hoja de matricula](/doc/secretaria/Obtener%20hoja%20de%20matricula.md)
 ---
 
+## 🏫 Académico
+- Ver sección guiada
+- Calicar
+- Informes de calificaciones
+    - Top    
+    - Sabanas
+    - Estadistícas
+
 ## 💰 Contabilidad
 - [Cobrar matrícula](doc/contabilidad/Cobrar%20matricula.md)
 - [Cobrar aranceles](doc/contabilidad/Cobrar%20aranceles.md)
@@ -35,14 +42,12 @@
 - [Generar reportes de ingresos](doc/contabilidad/Reporte%20de%20ingresos.md)
 - [Gestionar transacciones](doc/contabilidad/Ver%20transacciones.md)
 - [Modificar tasa de cambio](doc/contabilidad/Modificar%20tasa%20de%20cambio.md).
-
 ---
 
 ## 🛠️ Administración
 - [Gestionar parciales](doc/administracion/Gestionar%20parciales.md)
 - [Gestionar registro de calificaciones](doc/administracion/Gestionar%20registro%20de%20calificaciones.md)
-
-
+- Generar informe de calificaciones.
 ---
 
 ## ⚙️ Configuración
