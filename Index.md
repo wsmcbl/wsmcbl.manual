@@ -27,10 +27,10 @@
 ## 🏫 Académico
 - [Ver sección guiada](doc/academico/Ver%20seccion%20guiada.md)
 - [Calificar](doc/academico/calificar.md)
-- Informes de calificaciones
-    - Top    
-    - Sabanas
-    - Estadistícas
+- [Informes de calificaciones](doc/academico/Ver%20informes.md)
+    - [Top estudiantes](doc/academico/Ver%20informes.md#top-estudiantes)
+    - [Sabanas](doc/academico/Ver%20informes.md#sabana-de-calificaciones)
+    - [Estadísticas](doc/academico/Ver%20informes.md#estadística)
 
 ## 💰 Contabilidad
 - [Cobrar matrícula](doc/contabilidad/Cobrar%20matricula.md)
