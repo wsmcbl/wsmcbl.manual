@@ -1,4 +1,4 @@
-_# 🆕 Crear un año lectivo
+# 🆕 Crear un año lectivo
 
 Descripcion o proposito
 .
@@ -30,6 +30,6 @@ Descripcion o proposito
 
 Algun tipo de sugerencias.
 
-🔙 [Inicio](../../Index.md)_
+🔙 [Inicio](../../Index.md)
 
 

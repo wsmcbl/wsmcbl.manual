@@ -25,8 +25,8 @@
 ---
 
 ## 🏫 Académico
-- Ver sección guiada
-- Calicar
+- [Ver sección guiada](doc/academico/Ver%20seccion%20guiada.md)
+- [Calificar](doc/academico/calificar.md)
 - Informes de calificaciones
     - Top    
     - Sabanas
