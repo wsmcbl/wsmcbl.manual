@@ -47,7 +47,9 @@
 ## 🛠️ Administración
 - [Gestionar parciales](doc/administracion/Gestionar%20parciales.md)
 - [Gestionar registro de calificaciones](doc/administracion/Gestionar%20registro%20de%20calificaciones.md)
-- Generar informe de calificaciones.
+- [Generar reporte estadístico](doc/academico/Ver%20reporte%20estadistico.md)
+  - [Resumen estadísticos](doc/academico/Ver%20reporte%20estadistico.md#-pasos-para-descargar-el-reporte-resumido-de-estadística)
+  - [Resumen de reprobados](doc/academico/Ver%20reporte%20estadistico.md#pasos-para-descargar-el-reporte-de-reprobados)
 ---
 
 ## ⚙️ Configuración
@@ -59,4 +61,4 @@
 - [Roles Roles](doc/configuracion/Roles.md)
 
 
-V3.0
+WSM-CBL | Versión 5.0
