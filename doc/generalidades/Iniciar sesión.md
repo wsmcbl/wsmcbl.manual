@@ -23,6 +23,8 @@ Esta sección describe cómo acceder al sistema mediante la funcionalidad de **i
 6. Haga clic en el botón **“Iniciar sesión”**.
 7. Si las credenciales son correctas, será redirigido al **panel principal del usuario**:
 
+<div style="page-break-after: always;"></div>
+
 ## 📝 Nota importante
 
 > **⚠️ El usuario será redirigido a un panel principal que puede ser distinto dependiendo de su rol.  **

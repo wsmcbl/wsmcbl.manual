@@ -1,7 +1,7 @@
 # 🛠️ Generar proformas.
 
 Este documento contiene los precios de todos los aranceles para el año lectivo activo.
-.
+
 ---
 
 ## 📝 Nota importante
@@ -23,6 +23,9 @@ Este documento contiene los precios de todos los aranceles para el año lectivo 
 5. El documento fue generado y descargado con éxito.
    ![Ir al listado](../../assets/Proformas/Pro3.png)
 ---
+
+<div style="page-break-after: always;"></div>
+
 ## Generar proforma a cliente sin perfil.
 1. Da clic en el módulo de secretaria y selecciona Estudiantes (1).
    ![Ir al listado](../../assets/Cambio%20de%20matricula/Cambio1.png)

@@ -14,6 +14,9 @@ Al matrícular um estudiante se asigna su grado y sección.
 
 1. Da clic en el módulo de secretaria y selecciona Matrícular (1).
    ![Información del estudiante](../../assets/Matricular/Matricular1.png)
+
+   <div style="page-break-after: always;"></div>
+
 2. Busca (2) al estudiante, da clic en el botón Matrícular (3). <br>
    Solo se mostrarán los perfiles con el 100% del pago de la matrícula cancelado y que no estén matrículados.
    ![Información del estudiante](../../assets/Matricular/Matricular2.png)
@@ -38,6 +41,8 @@ Al matrícular um estudiante se asigna su grado y sección.
    y las credenciales de acceso para ver las calificaciones online.
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## ❗ Problemas comunes
 

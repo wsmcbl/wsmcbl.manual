@@ -50,6 +50,8 @@ y dar clic en el botón Descargar (8)
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## ❗ Problemas comunes
 
 | Problema                   | Solución sugerida                                         |

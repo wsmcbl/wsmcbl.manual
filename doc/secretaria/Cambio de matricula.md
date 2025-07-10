@@ -25,6 +25,8 @@ A solicitud del tutor o decisión de la dirección académica se podrá realizar
    ![Ir al listado](../../assets/Cambio%20de%20matricula/Cambio5.png)
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## ❗ Problemas comunes
 
 | Problema                                   | Solución sugerida                          |

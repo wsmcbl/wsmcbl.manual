@@ -1,7 +1,7 @@
-__# 🛠️ Generar historial académico.
+# 🛠️ Generar historial académico.
 
 Este documento contiene las calificaciones de un estudiante por años lectivos.
-.
+
 ---
 
 ## 📝 Nota importante

@@ -25,6 +25,8 @@ cada sección.
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## ❗ Problemas comunes
 
 | Problema                             | Solución sugerida                   |

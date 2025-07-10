@@ -29,6 +29,8 @@ para dicho nivel, la lista de grados y secciones disponibles.
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## ❗ Problemas comunes
 
 | Problema                                                 | Solución sugerida                                                            |

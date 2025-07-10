@@ -23,6 +23,8 @@ Este documento contiene la información de su matrícula y año lectivo.
    ![Ir al listado](../../assets/Alumno%20activo/Activo3.png)
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## ❗ Problemas comunes
 
 | Problema                   | Solución sugerida                        |

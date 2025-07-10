@@ -25,6 +25,8 @@ Su perfil queda desactivado y no aparece en el módulo de contabilidad a menos q
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## ❗ Problemas comunes
 
 | Problema                                                   | Solución sugerida                             |

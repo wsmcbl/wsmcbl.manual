@@ -1,7 +1,7 @@
 # 🛠️ Generar estado de cuenta.
 
 Este documento contiene los pagos realizados y pendientes de un estudiante.
-.
+
 ---
 
 ## 📝 Nota importante

@@ -24,6 +24,9 @@ registros de calificaciones activos*
       ![Seleccione la vista de grados](../../assets/Configurar%20secciones/Secciones3.png)
     - El docente se actualiza correctamente
       ![Seleccione la vista de grados](../../assets/Configurar%20secciones/Secciones6.png)
+
+      <div style="page-break-after: always;"></div>
+
 4. Cambiar docente de una asignatura
     - Selecciona el botón Actualizar docente (4).
       ![Seleccione la vista de grados](../../assets/Configurar%20secciones/Secciones2.png)
@@ -40,6 +43,8 @@ registros de calificaciones activos*
       ![Seleccione la vista de grados](../../assets/Configurar%20secciones/Secciones8.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## ❗ Problemas comunes
 

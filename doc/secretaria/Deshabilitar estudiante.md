@@ -24,6 +24,8 @@ Su perfil queda desactivado y no aparece en el módulo de contabilidad a menos q
    ![Ir al listado](../../assets/Desactivar%20perfil/Des3.png)
    ![Ir al listado](../../assets/Desactivar%20perfil/Des4.png)
 
+<div style="page-break-after: always;"></div>
+
 ## Habilitar perfil.
 1. Da clic en el módulo de secretaria y selecciona Estudiantes (1).
    ![Ir al listado](../../assets/Cambio%20de%20matricula/Cambio1.png)
