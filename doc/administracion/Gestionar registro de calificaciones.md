@@ -5,6 +5,7 @@ lectivo,
 activar el registro de calificaciones para un parcial genera automáticamente los registros de calificaciones de todos
 los estudiantes
 permitiendo a los docentes calificar a los estudiantes.
+
 ---
 
 ## 📝 Nota importante
@@ -25,6 +26,8 @@ permitiendo a los docentes calificar a los estudiantes.
    ![](../../assets/Gestionar%20registro%20de%20calificaciones/3.png)
 
 ---
+
+   <div style="page-break-after: always;"></div>
 
 ## ✅ Pasos para desactivar registro de calificaciones.
 

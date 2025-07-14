@@ -22,7 +22,9 @@ En la opción de Informes de calificaciones encontrarás los todos los reportes 
 5. Ordenado de mayor a menor por el primer parcial.
    ![](../../assets/INformes/5.png)
 
---
+---
+
+   <div style="page-break-after: always;"></div>
 
 # Sabana de calificaciones
 
@@ -40,6 +42,8 @@ En la opción de Informes de calificaciones encontrarás los todos los reportes 
 6. Se descargara el reporte de las calificaciones del parcial actual seleccionado en la lista de parciales.
    ![](../../assets/INformes/11.png)
 ---
+
+   <div style="page-break-after: always;"></div>
 
 # Estadística
 

@@ -1,4 +1,4 @@
-# 💲 Cobrar matrícula
+# 💲 Cobrar aranceles
 
 ## 📝 Nota importante
 
@@ -12,7 +12,7 @@
    ![Ir al listado de estudiantes](../../assets/Cobrar%20matricula/Matricular1.png)
 2. Busca el perfil de estudiante utilizando su nombre, código o tutor (2) y selecciona el botón Ver perfil (3).
    ![Ir al listado de estudiantes](../../assets/Cobrar%20matricula/Matricular2.png)
-3. Dentro del perfil del estudiante selecciona la pestaña MensualidadesC (4).
+3. Dentro del perfil del estudiante selecciona la pestaña Mensualidades (4).
    ![Ir al listado de estudiantes](../../assets/Cobrar%20aranceles/C1.png)
 4. Selecciona el checkbox correspondiente al pago de los aranceles (5) y seleccioné el botón Cobrar (6).
    ![Ir al listado de estudiantes](../../assets/Cobrar%20aranceles/C2.png)
@@ -24,6 +24,8 @@
 7. Se muestra el recibo por la transacción realizada.
    ![Ir al listado de estudiantes](../../assets/Cobrar%20aranceles/C5.png)
 ---
+
+   <div style="page-break-after: always;"></div>
 
 ## ❗ Problemas comunes
 

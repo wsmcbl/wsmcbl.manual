@@ -22,6 +22,8 @@ Actualiza datos básicos y permisos específicos.
 
 ---
 
+   <div style="page-break-after: always;"></div>
+
 ## ✅ Pasos para actualizar los permisos de los usuarios
 
 1. Da clic en el módulo de Configuración y selecciona Usuarios (1).

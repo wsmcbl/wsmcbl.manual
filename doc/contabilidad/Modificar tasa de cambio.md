@@ -1,7 +1,7 @@
 # 🛠️ Modificar tasa de cambio
 
 Modifica la tasa de cambio de un año lectivo en especifico
-.
+
 ---
 
 ## 📝 Nota importante

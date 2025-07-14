@@ -22,7 +22,10 @@ Genera el reporte rumido de todos los grados, como también la lista de los alum
 5. Al abrir el archivo obtenemos el reporte solicitado.
    ![](../../assets/VerReporteEstadistico/5.png)
 ---
-## Pasos para descargar el reporte de reprobados.
+
+   <div style="page-break-after: always;"></div>
+
+## ✅ Pasos para descargar el reporte de reprobados.
 1. Da clic en el botón Estadística (1).
    ![](../../assets/VerReporteEstadistico/1.png)
 2. Selecciona el tipo de reporte y da clic en el botón Generar Reporte (2).

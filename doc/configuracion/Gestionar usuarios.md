@@ -22,6 +22,8 @@ Actualiza el estado del usuario.
    ![](../../assets/Gestionar%20usuarios/4.png)
 ---
 
+   <div style="page-break-after: always;"></div>
+
 ## ✅ Pasos para activar usuarios
 
 1. Da clic en el módulo de Configuración y selecciona Usuarios (1).

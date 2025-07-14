@@ -2,7 +2,6 @@
 
 Al generar una copia de seguridad manualmente se descargará un archivo .sql que contiene toda la estructura y datos de la base de datos.
 
-
 ---
 
 ## 📝 Nota importante

@@ -29,6 +29,8 @@ El cobro de la matrícula se realiza de manera anual y es el primer aranceles qu
    ![Ir al listado de estudiantes](../../assets/Cobrar%20matricula/Matricular7.png)
 ---
 
+   <div style="page-break-after: always;"></div>
+
 ## ❗ Problemas comunes
 
 | Problema                                                          | Solución sugerida                                                                         |

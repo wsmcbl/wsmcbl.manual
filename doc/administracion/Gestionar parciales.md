@@ -2,6 +2,7 @@
 
 Un parcial es un periodo de tiempo designado para evaluar a un grupo de estudiante,
 al terminar un parcial se le agregarán las calificaciones obtenidas a dicho grupo de estudiante.
+
 ---
 
 ## 📝 Nota importante
@@ -30,6 +31,8 @@ al terminar un parcial se le agregarán las calificaciones obtenidas a dicho gru
 4. El parcial se habrá activado con éxito.
    ![](../../assets/Gestionar%20parciales/4.png)
 ---
+
+   <div style="page-break-after: always;"></div>
 
 ## ✅ Pasos para activar parciales.
 

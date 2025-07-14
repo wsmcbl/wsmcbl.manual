@@ -13,6 +13,9 @@ Aqui se mostrarán todos los estudiantes asignados a su cargo.
 
 1. Da clic en el botón Sección guiada (1).
    ![](../../assets/Ver%20seccion%20guiada/1.png)
+
+      <div style="page-break-after: always;"></div>
+
 2. Se mostrará la información correspondiente a la cantidad de estudiantes la capacidad y el listado de estudiantes
    matrículados (2-).
    ![](../../assets/Ver%20seccion%20guiada/2.png)
@@ -20,6 +23,8 @@ Aqui se mostrarán todos los estudiantes asignados a su cargo.
    ![](../../assets/Ver%20seccion%20guiada/3.png)
 
 ---
+
+   <div style="page-break-after: always;"></div>
 
 ## ❕ Sugerencias
 

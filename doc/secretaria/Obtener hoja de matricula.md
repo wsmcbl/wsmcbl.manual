@@ -1,7 +1,7 @@
 # 🛠️ Obtener hoja de matricula.
 
-Este documento contiene la información del estudiante y los acuerdos con que el tutor se compromete cumplir.
-.
+Este documento contiene la información del estudiante y los acuerdos con que el tutor se compromete cumplir..
+
 ---
 
 ## ✅ Pasos

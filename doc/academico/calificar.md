@@ -22,6 +22,8 @@ Podrás calificar a los estudiantes que impartes clases, al activarse la opción
 5. Se mostrará una notificación sobre el éxito o fracaso de los cambios realizados.
    ![](../../assets/Calificar/5.png)
 
+   <div style="page-break-after: always;"></div>
+
 ## ✅ Pasos para calificar mediante una hoja de cálculo.
 
 1. Da clic en el botón Calificar (1).
@@ -49,6 +51,8 @@ Podrás calificar a los estudiantes que impartes clases, al activarse la opción
     ![](../../assets/Calificar/15.png)
 
 ---
+
+   <div style="page-break-after: always;"></div>
 
 ## ❗ Problemas comunes
 

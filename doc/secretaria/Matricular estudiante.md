@@ -27,7 +27,7 @@ Al matrícular um estudiante se asigna su grado y sección.
       ![Información del estudiante](../../assets/Matricular/Matricular4.png)
     - Académica (6)
       ![Información del estudiante](../../assets/Matricular/Matricular5.png)
-      El listado de grados (6) y de Secciones (7) corresponde a los disponibles según
+      El listado de grados (7) y de Secciones (8) corresponde a los disponibles según
       el nivel educativo seleccionado al momento de crear el perfil.
 4. Una vez rellenado todos los datos da click en el botón guardar (9).
    ![Información del estudiante](../../assets/Matricular/Matricular6.png)

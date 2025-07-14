@@ -22,7 +22,6 @@ Actualiza los permisos que tiene por defecto un rol.
    ![](../../assets/Roles/4.png)
 5. Se habran actualizado los permisos del rol.
    ![](../../assets/Roles/5.png)
-
 ---
 
 ## ❕ Sugerencias
