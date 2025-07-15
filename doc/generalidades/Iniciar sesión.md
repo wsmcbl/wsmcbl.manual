@@ -27,7 +27,7 @@ Esta sección describe cómo acceder al sistema mediante la funcionalidad de **i
 
 ## 📝 Nota importante
 
-> **⚠️ El usuario será redirigido a un panel principal que puede ser distinto dependiendo de su rol.  **
+> **⚠️ El usuario será redirigido a un panel principal que puede ser distinto dependiendo de su rol.**
 
 ![Inicio del Cajero](../../assets/Login/Login2.png)
 

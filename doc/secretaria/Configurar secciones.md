@@ -2,7 +2,7 @@
 
 Define quien será el maestro guía en la sección, el maestro que impartirá las clases y actualiza los datos de la sección
 como la capacidad, número y capacidad usada de la sección
-.
+
 ---
 
 ## 📝 Nota importante

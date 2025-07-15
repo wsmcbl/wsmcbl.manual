@@ -1,10 +1,10 @@
 # 🛠️ Cambiar de matrícula
 
 A solicitud del tutor o decisión de la dirección académica se podrá realizar el cambio de matrícula a un estudiante.
-.
+
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Para realizar el cambio de matrícula de un estudiante no debe existir parciales activos ni tampoco registros de calificaciones activos.
 > 

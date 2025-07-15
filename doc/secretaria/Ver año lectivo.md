@@ -2,16 +2,17 @@
 
 Revisa los detalles de cualquier año lectivo, ajusta algunos detalles como el tipo de cambio y otras configuraciones
 relacionados con las fechas límites de los parciales y la entrega de calificaciones.
+
 ---
 
-## 📝 Nota importante
+## 📝 Notas
 
 > *Podrás editar la [tasa de cambio](../contabilidad/Modificar%20tasa%20de%20cambio.md) desde el módulo de contabilidad*
 > 
 > Se necesita tener alguno de estos roles. Secretario, Administrador
 ---
 
-## ✅ Pasos para
+## ✅ Pasos
 
 1. Da clic en el módulo de secretaria y selecciona Año Lectivo (1).
 ![Ingresando a la vista de años lectivos](../../assets/Año%20Lectivo/Año%20Lectivo1.png)

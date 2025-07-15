@@ -1,7 +1,7 @@
 # 🆕 Matricular estudiantes
 
 Al matrícular um estudiante se asigna su grado y sección.
-.
+
 ---
 
 ## 📝 Nota importante

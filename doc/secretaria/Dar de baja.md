@@ -2,10 +2,10 @@
 
 Al dar de baja a un estudiante, automáticamente se elimina de la matrícula actual, y se agrega a la lista de Retirados.
 Su perfil queda desactivado y no aparece en el módulo de contabilidad a menos que se active.
-.
+
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Se puede dar de baja a un estudiante en cualquier momento.
 ---

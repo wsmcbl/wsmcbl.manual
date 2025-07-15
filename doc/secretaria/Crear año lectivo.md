@@ -2,6 +2,7 @@
 
 Esta sección describe cómo crear un año lectivo con el fin de configurar los aranceles,
 asignaturas, semestres y parciales del proximo año lectivo.
+
 ---
 
 ## 📝 Nota importante
@@ -12,7 +13,7 @@ asignaturas, semestres y parciales del proximo año lectivo.
 
 ---
 
-## ✅ Pasos para iniciar sesión
+## ✅ Pasos
 
 1. Da clic en el módulo de secretaria y selecciona Año Lectivo (1).
    ![Ingresar al año lectivo](../../assets/Año%20Lectivo/Año%20Lectivo1.png)

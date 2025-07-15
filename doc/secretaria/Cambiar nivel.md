@@ -2,7 +2,7 @@
 
 Cambiar el nivel educativo actualiza automáticamente la lista de aranceles disponibles
 para dicho nivel, la lista de grados y secciones disponibles.
-.
+
 ---
 
 ## 📝 Nota importante

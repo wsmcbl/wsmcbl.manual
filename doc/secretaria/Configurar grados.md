@@ -2,7 +2,7 @@
 
 Al configurar un grado definimos la cantidad de secciones que tendrá en este año lectivo, la ubicación y capacidad de
 cada sección.
-.
+
 ---
 
 ## 📝 Nota importante

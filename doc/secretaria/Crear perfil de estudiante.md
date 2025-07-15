@@ -1,10 +1,10 @@
 # 🆕 Crear perfil del estudiante
 
 El perfil del estudiante contiene los datos básicos del estudiante, padres y tutores.
-.
+
 ---
 
-## ✅ Pasos para
+## ✅ Pasos
 
 1. Da clic en el módulo de secretaria y selecciona Estudiantes (1).
    ![Ir a lista de estudiantes](../../assets/Crear%20Estudiante/Estudiante1.png)
@@ -25,7 +25,7 @@ El perfil del estudiante contiene los datos básicos del estudiante, padres y tu
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > *No puedes crear perfiles con: Mismos nombres y mismos tutores se considerará como un perfil duplicado*
 ---
