@@ -5,7 +5,7 @@ asignaturas, semestres y parciales del proximo año lectivo.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > *La creación de un año lectivo solo puede realizarse en los meses de noviembre y diciembre.*
 > 

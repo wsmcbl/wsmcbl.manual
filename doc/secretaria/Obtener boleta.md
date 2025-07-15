@@ -1,10 +1,10 @@
-# 🛠️ Obtener boleta de calificaciones.
+# 🛠️ Obtener boleta de calificaciones
 
 Este documento contiene las calificaciones del estudiante.
-.
+
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Solo puedes generar la boleta de calificaciones luego de que el primer parcial haya 
 > culminado con el registro de calificaciones,
@@ -14,7 +14,7 @@ Este documento contiene las calificaciones del estudiante.
 
 ---
 
-## ✅ Pasos para
+## ✅ Pasos
 
 ## Obtener boleta desde el listado de estudiantes.
 1. Da clic en el módulo de secretaria y selecciona Estudiantes (1).

@@ -1,4 +1,4 @@
-# 🛠️ Obtener hoja de matricula.
+# 🛠️ Obtener hoja de matricula
 
 Este documento contiene la información del estudiante y los acuerdos con que el tutor se compromete cumplir..
 

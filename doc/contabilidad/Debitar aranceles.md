@@ -1,4 +1,4 @@
-# 💲 Cobrar matrícula
+# 💲 Debitar aranceles
 
 Al debitar un arancel se le condena dicha deuda a un estudiante y no se añade a los ingresos.
 

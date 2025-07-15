@@ -1,10 +1,10 @@
 # 💲 Cobrar matrícula
 
 El cobro de la matrícula se realiza de manera anual y es el primer aranceles que se cobra.
-.
+
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Para realizar el cobro de la matrícula el estudiante debe poseer un perfil.
 > 

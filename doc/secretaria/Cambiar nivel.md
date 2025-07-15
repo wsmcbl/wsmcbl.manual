@@ -5,7 +5,7 @@ para dicho nivel, la lista de grados y secciones disponibles.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Para realizar el cambio de nivel de un estudiante no deben existir cobros de matrículas para el año lectivo.
 >

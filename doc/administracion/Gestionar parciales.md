@@ -1,11 +1,11 @@
-# 🆕 Gestionar parciales.
+# 🛠️ Gestionar parciales
 
 Un parcial es un periodo de tiempo designado para evaluar a un grupo de estudiante,
 al terminar un parcial se le agregarán las calificaciones obtenidas a dicho grupo de estudiante.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Cuando un parcial está activo o inactivo ciertos cambios no son permitidos en el sistema.
 >
@@ -34,7 +34,7 @@ al terminar un parcial se le agregarán las calificaciones obtenidas a dicho gru
 
    <div style="page-break-after: always;"></div>
 
-## ✅ Pasos para activar parciales.
+## ✅ Pasos para desactivar parciales.
 
 1. Da clic en el módulo de Administración y selecciona Parciales (1).
    ![](../../assets/Gestionar%20parciales/1.png)

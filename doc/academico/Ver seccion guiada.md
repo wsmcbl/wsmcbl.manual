@@ -4,7 +4,7 @@ Aqui se mostrarán todos los estudiantes asignados a su cargo.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Debes tener un usuario con el rol de Docente para acceder a esta información.
 ---

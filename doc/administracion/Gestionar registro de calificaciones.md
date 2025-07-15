@@ -1,4 +1,4 @@
-# 🆕 Gestionar registro de calificaciones.
+# 🛠️ Gestionar registro de calificaciones
 
 El registro de calificaciones está desactivado por defecto para cada uno de los 4 parciales que conforman el año
 lectivo,
@@ -8,7 +8,7 @@ permitiendo a los docentes calificar a los estudiantes.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Para gestionar el registro de calificaciones se debe de tener un rol de Administrador o Director.
 ---

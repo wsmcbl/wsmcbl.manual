@@ -1,11 +1,11 @@
-# 🛠️ Generar proformas.
+# 🛠️ Ver contraseña de estudiantes
 
 El codígo del estudiante y la contraseña son los 2 requisitos para que el tutor pueda ver las notas online en la página
 web.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Si el estudiante no tiene una contraseña debes reiniciarla.
 ---

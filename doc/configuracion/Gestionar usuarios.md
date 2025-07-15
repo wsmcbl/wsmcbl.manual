@@ -4,7 +4,7 @@ Actualiza el estado del usuario.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Para Activar / Desactivar un usuario se necesita del rol Administrador.
 ---

@@ -1,15 +1,15 @@
 # 🛠️ Modificar tasa de cambio
 
-Modifica la tasa de cambio de un año lectivo en especifico
+Modifica la tasa de cambio de un año lectivo en especifico.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
-> *La tasa de cambio puede ser modificada en cualquier momento.*
+> ***La tasa de cambio puede ser modificada en cualquier momento.***
 ---
 
-## ✅ Pasos para
+## ✅ Pasos
 
 1. Da clic en el módulo de contabilidad y selecciona Tasa de cambio (1).
 ![Acceder](../../assets/Tasa%20de%20cambio/Tasa1.png)

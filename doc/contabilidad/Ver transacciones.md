@@ -1,10 +1,10 @@
-# Gestionar transacciones
+# 🛠️ Gestionar transacciones
 
 Listado de todas la transacciónes realizadas.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Puedes anular una transacción en cualquier momento.
 ---

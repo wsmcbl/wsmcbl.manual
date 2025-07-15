@@ -4,7 +4,7 @@ En la opción de Informes de calificaciones encontrarás los todos los reportes 
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Debes de tener el rol Docente y además ser docente guía de alguna sección, para acceder a informes
 ---

@@ -5,7 +5,7 @@ cada sección.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > *Solo se pueden crear un maximo de 7 secciones por grado.*
 ---

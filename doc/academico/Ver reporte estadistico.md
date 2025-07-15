@@ -4,7 +4,7 @@ Genera el reporte rumido de todos los grados, como también la lista de los alum
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Para generar estos reportes es necesario tener el rol de Director.
 ---

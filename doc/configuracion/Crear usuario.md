@@ -4,7 +4,7 @@ Genera un nuevo usuario cuando requieras un nuevo maestro, cajero, o secretario.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Para crear un nuevo usuario es necesario tener el rol de Administrador.
 ---

@@ -4,7 +4,7 @@ Al generar una copia de seguridad manualmente se descargará un archivo .sql que
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Al generar la copia de seguridad se descargará la última versión guardada en el servidor.
 > 

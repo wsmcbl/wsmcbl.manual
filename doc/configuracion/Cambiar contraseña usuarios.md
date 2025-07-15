@@ -4,7 +4,7 @@ Se generará una nueva contraseña y la anterior quedará invalidada.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Para actualizar la contraseña de un usuario se necesita del rol Administrador.
 ---

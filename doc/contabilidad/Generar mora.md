@@ -2,6 +2,8 @@
 
 Al generar la mora para un arancel se le agregará el 10% del monto del arancel al adeudo del estudiante. 
 
+---
+
 ## 📝 Nota importante
 
 > Puedes generar mora por aranceles para distintos niveles educativos.

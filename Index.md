@@ -61,4 +61,4 @@
 - [Roles Roles](doc/configuracion/Roles.md)
 
 
-WSM-CBL | Versión 6.0
+WSM-CBL | Versión 7.0

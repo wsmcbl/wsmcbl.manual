@@ -1,15 +1,15 @@
 # 🛠️ Deshabilitar estudiante
 
-Su perfil queda desactivado y no aparece en el módulo de contabilidad a menos que se active
-.
+Su perfil queda desactivado y no aparece en el módulo de contabilidad a menos que se active.
+
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Para deshabilitar un estudiante no debe tener una matricula activa.
 ---
 
-## ✅ Pasos para
+## ✅ Pasos
 
 ## Deshabilitar perfil.
 1. Da clic en el módulo de secretaria y selecciona Estudiantes (1).

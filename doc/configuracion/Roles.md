@@ -4,7 +4,7 @@ Actualiza los permisos que tiene por defecto un rol.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Al actualizar los permisos de un rol, todos los usuarios con dicho rol tendrán actualizados su lista de permisos
 > también.

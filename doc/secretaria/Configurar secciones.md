@@ -5,7 +5,7 @@ como la capacidad, número y capacidad usada de la sección
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > *El cambio de maestros guía y maestro de asignaturas solo está disponible cuando no existen parciales activo, ni
 registros de calificaciones activos*

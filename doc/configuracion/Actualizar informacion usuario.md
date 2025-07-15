@@ -4,7 +4,7 @@ Actualiza datos básicos y permisos específicos.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Para actualizar datos de un usuario se necesita del rol Administrador.
 ---

@@ -1,10 +1,10 @@
-# 🛠️ Generar historial académico.
+# 🛠️ Generar historial académico
 
 Este documento contiene las calificaciones de un estudiante por años lectivos.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Puedes generar el historial académico de cualquier estudiante incluso de los que ya no están matrículados o activos,
 > con la unica condición que existan registros de sus calificaciones.

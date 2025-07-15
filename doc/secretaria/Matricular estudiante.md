@@ -4,7 +4,7 @@ Al matrícular um estudiante se asigna su grado y sección.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Para matrícular a un estudiante debe tener cancelado el 100% del arancel de matrícula,
 >

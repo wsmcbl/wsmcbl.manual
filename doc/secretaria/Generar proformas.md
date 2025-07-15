@@ -1,10 +1,10 @@
-# 🛠️ Generar proformas.
+# 🛠️ Generar proformas
 
 Este documento contiene los precios de todos los aranceles para el año lectivo activo.
 
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Puedes generar una proforma para un estudiante en particular o para un tercero.
 ---

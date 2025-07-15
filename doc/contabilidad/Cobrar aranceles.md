@@ -2,7 +2,6 @@
 
 ## 📝 Nota importante
 
->
 > Los cobros de aranceles y servicios solo pueden realizarse por un usuario con el rol de cajero.
 ---
 

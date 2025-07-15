@@ -1,10 +1,10 @@
-_# 🛠️ Generar constancia de alumno activo.
+# 🛠️ Generar constancia de alumno activo
 
 Este documento contiene la información de su matrícula y año lectivo.
-.
+
 ---
 
-## 📝 Nota importante
+## 📝 Nota
 
 > Solo puedes generar constancia de alumno activo a estudiantes activos.
 ---

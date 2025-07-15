@@ -4,7 +4,7 @@ Podrás calificar a los estudiantes que impartes clases, al activarse la opción
 
 ---
 
-## Nota importante
+## Nota
 
 > Debes tener el rol de Docente y asignaturas asignadas en el parcial correspondiente para poder calificar.
 ---
